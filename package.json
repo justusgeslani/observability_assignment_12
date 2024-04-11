@@ -1,0 +1,11 @@
+{
+  "name": "observability_assignment_12",
+  "version": "1.0.0",
+  "description": "observability assignment 12 for CIS4930",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "justusgeslani",
+  "license": "ISC"
+}
